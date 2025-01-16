@@ -1,6 +1,6 @@
 # Digit Recognition 🎰
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Digit-Recognizer/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/sumeetghumare4/Digit-Recognition/blob/main/LICENSE.txt)  [![](https://img.shields.io/badge/Sumeet-Ghumare-brightgreen.svg?colorB=ff0000)](https://sumeetghumare4.github.io/profile-/)
 
 This code helps you classify different digits using softmax regression.
 
@@ -22,8 +22,6 @@ For more information, [see](https://www.kdnuggets.com/2016/07/softmax-regression
 3) Classify digits from 0 to 9
 4) Logistic Regression, Shallow Network and Deep Network Support added.
 
-## Results 📊
-<img src="https://github.com/akshaybahadur21/Digit-Recognizer/blob/master/final.gif">
 
 ## Execution 🐉
 To run the code, type `python Dig-Rec.py`
@@ -32,8 +30,6 @@ To run the code, type `python Dig-Rec.py`
 python Dig-Rec.py
 ```
 
-## Results 📊
-<img src="https://github.com/akshaybahadur21/Digit-Recognizer/blob/master/digit.gif">
 
 ## Execution 🐉
 To run the code, type `python Digit-Recognizer.py`
